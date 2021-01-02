@@ -1,0 +1,13 @@
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\bin\Debug\petsolutionlogin.exe.config
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\bin\Debug\petsolutionlogin.exe
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\bin\Debug\petsolutionlogin.pdb
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.csprojAssemblyReference.cache
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.Dpinfo.resources
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.Form1.resources
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.PatientSolution.resources
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.pinfo.resources
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.Properties.Resources.resources
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.csproj.GenerateResource.cache
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.csproj.CoreCompileInputs.cache
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.exe
+C:\Users\RIFANANJIBA\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.pdb
