@@ -1,0 +1,5 @@
+C:\Users\lenovo\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.Form1.resources
+C:\Users\lenovo\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.pinfo.resources
+C:\Users\lenovo\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.Properties.Resources.resources
+C:\Users\lenovo\Documents\GitHub\rifa123\petsolutionlogin\petsolutionlogin\obj\Debug\petsolutionlogin.csproj.GenerateResource.cache
