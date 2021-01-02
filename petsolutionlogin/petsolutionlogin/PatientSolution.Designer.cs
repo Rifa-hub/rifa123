@@ -1,4 +1,4 @@
-﻿namespace petsolutionlogin
+namespace petsolutionlogin
 {
     partial class PatientSolution
     {
